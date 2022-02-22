@@ -1,4 +1,6 @@
-### Hi there 👋
+### Johan Henrik Andersson
+[Google Scholar](https://scholar.google.com/citations?user=ARPQedsAAAAJ&hl=sv)
+[LinkedIn](https://www.linkedin.com/in/henrik-andersson-8205b386/)
 
 <!--
 **ecomodeller/ecomodeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
